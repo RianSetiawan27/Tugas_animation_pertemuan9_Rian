@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><b>Tugas</b></td>
-    <td>Animation & Transitation</td>
+    <td>Animation & Transition</td>
   </tr>
 </table>
 
